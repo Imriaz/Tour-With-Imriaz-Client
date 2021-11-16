@@ -1,0 +1,23 @@
+.shopping-container{
+    background-color: thistle;
+    border-radius: 30px;
+}
+.card-image{
+    width: 250px;
+    margin: auto;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.card{
+    width: 400px;
+    height: 470px;
+    border: 2px solid skyblue;
+    border-radius: 10px;
+    
+}
+
+.card:hover{
+    box-shadow: 30px 30px 30px 30px lightgray;
+    border: 1px solid lightgrey;
+}

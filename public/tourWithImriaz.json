@@ -1,0 +1,38 @@
+[
+    {
+        "packajeName": "SAINT MARTIN ISLAND | Bangladesh",
+        "description": "Saint Martin is a small but very beautiful coral Island of Bangladesh. The Island is a very quiet, neat and clean place. Every corners of this Island has different look and are very attractive. Here you will find live and dead coral, lots of coconut trees that’s why its local name is Narikel Jinjira. Overnight staying in St. Martins Island is really an exotic feeling where you will feel and listen the sound of Sea. If you are lucky then you can spend the exotic moonlit night at St. Martins Island. The beauty of Full moon in St. Martins Island cannot be expressed, if you are not there at that time. Chera-dwip is a beautiful part of this Island, you can go there by boat. You can walk around the Island in a day. You can enjoy BBQ dinner with fresh marine fish or lobsters here.",
+        "price": 100,
+        "img": "https://i.ibb.co/p26YfPC/Saint-Martine.jpg"
+    },
+    {
+        "packajeName": "Skiing In Alps | Austria",
+        "description": "The Alps are the highest and most extensive mountain range system that lies entirely in Europe, stretching approximately 1,200 km across eight Alpine countries: France, Switzerland, Monaco, Italy, Liechtenstein, Austria, Germany, and Slovenia.",
+        "price": 450,
+        "img": "https://i.ibb.co/Jts09bk/Alps.jpg"
+    },
+    {
+        "packajeName": "Sonmarg, Kashmir – The Meadow Of Gold | Pakistan",
+        "description": "A place, so beautiful that you will never want to return home! It is an ideal vacation for anyone who wishes to enjoy some good snowy wintertime with friends and family. You can explore the charm of Thajiwas Glacier, Zojila Pass, Gangabal Lake, and the serenity of Gadsar Lake. Sonmarg is a must-visit amongst the winter destinations in India.",
+        "price": 300,
+        "img": "https://i.ibb.co/L5ZzbS4/Kashmir.jpg"
+    },
+    {
+        "packajeName": "Nainital - Lake District of Uttarakhand | India",
+        "description": "The tranquillity of Nainital will amaze you. The beautiful lakes and sprawling scenery will startle you. Other than sightseeing you can also visit the glowing Himalayan range snow view. Nainital is considered to be one of the best places to visit in India, and there is no mystery why! Get going and visit the beautiful Nainital now!",
+        "price": 300,
+        "img": "https://i.ibb.co/C5pssWd/Nainital.jpg"
+    },
+    {
+        "packajeName": "Mecklenburg-Vorpommern | Germany",
+        "description": "Mecklenburg-Vorpommern, affectionately known as Meckpom, or Mecklenburg-West Pomerania in English, is a wonderful green region just North of Berlin. You can make the trip to this northernmost state by car or train fairly quickly and cheaply, but bicycle touring is a wonderful option to consider in the Summertime.",
+        "price": 500,
+        "img": "https://i.ibb.co/KWLLMtS/Mecklenburg.jpg"
+    },
+    {
+        "packajeName": "Mountain Escape | USA",
+        "description": "Navigate rapids on a paddling trip down the Ocoee river, stare into the face of a massive gorge and venture into bucolic towns. Even amid pine forests, lakes and mountains, you’ll still discover terrific dining and shopping. Fly into Atlanta International Airport (ATL) and rent a car to drive a little over an hour to Dawsonville, Georgia, the first little getaway on your route.",
+        "price": 500,
+        "img": "https://i.ibb.co/WsTxw5m/Mountain-Escape.jpg"
+    }
+]
